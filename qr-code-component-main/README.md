@@ -30,8 +30,8 @@ I tried to keep it as simple as possible for a tiny project like this. Hence I d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://exmaple.com)
-- Live Site URL: [Add live site URL here](https://exmaple.com)
+- Solution URL: [https://github.com/vighgiv/Frontend-Mentor/tree/main/qr-code-component-main](https://github.com/vighgiv/Frontend-Mentor/tree/main/qr-code-component-main)
+- Live Site URL: [https://vighgiv.github.io/Frontend-Mentor/qr-code-component-main/index.html](https://vighgiv.github.io/Frontend-Mentor/qr-code-component-main/index.html)
 
 ## Author
 
