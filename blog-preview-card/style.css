@@ -62,6 +62,7 @@ main {
   background-color: var(--white);
   padding: 1.5rem;
   border-radius: 1.25rem;
+  border: 0.0625rem var(--gray-950) solid;
   box-shadow: 0.5rem 0.5rem #000;
   max-width: 24rem;
   display: grid;
