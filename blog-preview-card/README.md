@@ -16,9 +16,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Screenshot
 
 Desktop (1440px):
+
 ![Desktop screenshot 1440px](./assets/images/screenshots/1440.png)
 
 Mobile (375px):
+
 ![Mobile screenshot 375px](./assets/images/screenshots/375.png)
 
 ### Links
